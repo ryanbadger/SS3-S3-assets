@@ -1,4 +1,4 @@
-## Silverstripe S3 module
+## Silverstripe S3 module - UPDATED FOR SS3
 
 ## Overview
 
@@ -6,7 +6,7 @@ Simple module to override File.php and Image.php, enabling Silversrtripe to use 
 
 ## Server Requirements & Compatability
 
-This is my first attempt so most likely have overlooked a LOT. But seems to offer all file functions just fine in SS2.4.7
+This is my first attempt so most likely have overlooked a LOT. 
 Am currently working on a fix for TinyMCE CMS sidebar image uploader at the moment. - UPDATE: This now works, but resampling into content doesn't work yet, so original full sized images will be resized and not resampled via tiny_mce
 
 ## Installation
